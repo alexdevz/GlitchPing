@@ -2,7 +2,7 @@
 // This code may not be redistrubited and claimed as your own.
 
 // Email: support@ddidevelopment.com
-// Discord: https://discord.ddidevelopment.com
+// Discord: https://ddidev.xyz/discord
 
 
 
